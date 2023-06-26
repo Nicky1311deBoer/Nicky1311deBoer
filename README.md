@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="bitbanner.png"/>
 
-<!--
-**Nicky1311deBoer/Nicky1311deBoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey!
 
-Here are some ideas to get you started:
+## Ik ben een student aan de Bit Academy waarbij ik de opleiding Software development volg. Ik leer hier met plezier coderen. Ik kan niet wachten mijn skills bij te dragen aan deze wereld. Ik hoop in de toekomst nog zo veel meer te leren en zal dit doen met alle plezier en enthousiasme.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:
+
+- Backend Development: PHP, Python, JavaScript
+- Frontend Development: HTML, CSS
+- Data Visualisation: Power BI
+- Database Management: SQL
+- Agile Methodology: Scrum
+- Data Analysis: Pandas
+
